@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/hpoom/nvrmind",
   "dependencies": {
-    "hapi": "^8.2.0"
+    "good": "^5.1.2",
+    "good-console": "^4.1.0",
+    "hapi": "^8.2.0",
+    "tv": "^4.1.0"
   }
 }

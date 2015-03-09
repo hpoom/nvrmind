@@ -4,7 +4,8 @@
   "description": "nvrmind (prenounced nevermind) is a technology agnostic content management solution",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hpoom/nvrmind/issues"
   },
-  "homepage": "https://github.com/hpoom/nvrmind"
+  "homepage": "https://github.com/hpoom/nvrmind",
+  "dependencies": {
+    "hapi": "^8.2.0"
+  }
 }

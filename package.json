@@ -1,0 +1,19 @@
+{
+  "name": "nvrmind",
+  "version": "0.1.0",
+  "description": "nvrmind (prenounced nevermind) is a technology agnostic content management solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hpoom/nvrmind.git"
+  },
+  "author": "Simon Wood <simon.wood@holidayextras.com> (https://github.com/Shortbreaks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hpoom/nvrmind/issues"
+  },
+  "homepage": "https://github.com/hpoom/nvrmind"
+}
